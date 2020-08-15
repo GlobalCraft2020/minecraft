@@ -38,7 +38,7 @@ Special profile for demanding modded servers :
 Run theses bash scripts in the "~/multicraft" directory of your host server !
 * [Clean.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/clean.sh)
 * [Custom.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/custom.sh)
-* [Spigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/spigot.sh)
+* [Spigot.sh](https://raw.githubusercontent.com/GlobalCraft2020/minecraft/master/scripts/spigot.sh)
 * [Vanilla.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/vanilla.sh)  
 -----
  💬 Translation script
