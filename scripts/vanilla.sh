@@ -29,6 +29,8 @@ chown minecraft:minecraft ./jar/vanilla-1.9.4.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.8.9.jar.conf
 chown minecraft:minecraft ./jar/vanilla-1.8.9.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.7.10.jar.conf
+
+
 chown minecraft:minecraft ./jar/vanilla-1.7.10.jar.conf
 wget -N -P ./jar http://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/minecraft/vanilla/vanilla-1.7.2.jar.conf
 chown minecraft:minecraft ./jar/vanilla-1.7.2.jar.conf
